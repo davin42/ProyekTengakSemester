@@ -9,7 +9,7 @@
 6. Maulana Seto - 2206081471
 
 ## Cerita Aplikasi
-Pustaring, yang juga dikenal dengan nama "Pustaka Baca," atau "Lettura.lib" (Lettura = Membaca dalam bahasa Italia), adalah solusi perpustakaan daring yang bertujuan untuk mempromosikan literasi, membangun komunitas pembaca yang aktif, dan memberikan akses yang mudah ke pengetahuan dan hiburan melalui buku. Dengan fitur-fitur inovatif yang kami tawarkan, Pustaring diharapkan akan menjadi sumber daya berharga bagi semua pengguna.
+Pustaring, perpustakaan daring yang bertujuan untuk mempromosikan literasi, membangun komunitas pembaca yang aktif, dan memberikan akses yang mudah ke pengetahuan dan hiburan melalui buku. Dengan fitur-fitur inovatif yang kami tawarkan, Pustaring diharapkan akan menjadi sumber daya berharga bagi semua pengguna.
 
 ## Daftar modul yang akan diimplementasikan
 - **Ulasan**: Pengguna yang telah masuk dapat menambahkan ulasan pada buku dan halaman deskripsi buku.
