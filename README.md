@@ -1,6 +1,4 @@
-# Pustaring - Perpustakaan Daring Inovatif
-
-Pustaring adalah website perpustakaan daring yang inovatif dan canggih yang dirancang oleh tim kami untuk memberikan pengalaman membaca yang unik dan bermanfaat bagi semua pengguna. Website ini menggabungkan teknologi modern dengan pengalaman membaca tradisional untuk memudahkan pengguna dalam mengakses dan mengelola koleksi buku dan sumber bacaan mereka.
+# Pustaring - Perpustakaan Daring
 
 ## Daftar Anggota Kelompok
 1. Ruizhi Davin - 2206026082
