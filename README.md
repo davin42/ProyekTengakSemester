@@ -11,7 +11,7 @@
 ## Cerita Aplikasi
 Pustaring, yang juga dikenal dengan nama "Pustaka Baca," atau "Lettura.lib" (Lettura = Membaca dalam bahasa Italia), adalah solusi perpustakaan daring yang bertujuan untuk mempromosikan literasi, membangun komunitas pembaca yang aktif, dan memberikan akses yang mudah ke pengetahuan dan hiburan melalui buku. Dengan fitur-fitur inovatif yang kami tawarkan, Pustaring diharapkan akan menjadi sumber daya berharga bagi semua pengguna.
 
-## Fitur-fitur Utama
+## Daftar modul yang akan diimplementasikan
 - **Ulasan**: Pengguna yang telah masuk dapat menambahkan ulasan pada buku dan halaman deskripsi buku.
 - **Beranda**: Menampilkan beranda buku dengan filter yang memungkinkan pengguna menemukan buku yang sesuai dengan minat mereka.
 - **Customer Service**: Pengguna yang telah masuk dapat mengakses layanan pelaporan atau pengaduan.
