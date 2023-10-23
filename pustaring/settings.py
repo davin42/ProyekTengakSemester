@@ -37,6 +37,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'beranda',
+    'customer_service',
+    'fitur_premium',
+    'peminjaman_buku',
+    'sistem_manajemen',
+    'ulasan',
 ]
 
 MIDDLEWARE = [
