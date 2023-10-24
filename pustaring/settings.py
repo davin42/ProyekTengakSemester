@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'peminjaman_buku',
     'sistem_manajemen',
     'ulasan',
+    'book',
 ]
 
 MIDDLEWARE = [
