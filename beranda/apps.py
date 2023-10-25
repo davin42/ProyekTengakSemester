@@ -5,4 +5,4 @@ class BerandaConfig(AppConfig):
     name = 'beranda'
 
     def ready(self):
-        import beranda.signals  # Impor file 'signals.py' atau yang sesuai dari modul 'beranda'
+        import beranda.signals  # Gantilah 'beranda.signals' dengan modul yang sesuai jika diperlukan
