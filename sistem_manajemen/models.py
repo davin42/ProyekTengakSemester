@@ -4,4 +4,4 @@ from django.db import models
 
 class Ruangan(models.Model):
     nomor = models.IntegerField()
-    ketersidiaan = models.CharField(max_length=255)
+    ketersediaan = models.CharField(max_length=255)
